@@ -1,3 +1,5 @@
+Within this repository folder you will find a Presentation, Whitepaper, Jupyter Notebook, and raw data file.
+
 This model identifies potential bank client churn proactively to anticipate a client’s departure. 
 This allows teammates to act and save the client relationship prior to a loss, which minimizes attrition and maximizes profits.
 
@@ -29,6 +31,4 @@ The presentation includes:
 - Feature Importance
 - Potential Enhancements and Recommendations
 - Ethical Considerations
-
-Within this repository folder you will find a Presentation, Whitepaper, Jupyter Notebook, and raw data file.
 
