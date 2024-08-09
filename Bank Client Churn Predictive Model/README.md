@@ -1,5 +1,5 @@
 This model identifies potential bank client churn proactively to anticipate a client’s departure. 
-This allows teammates to act and save the client relationship prior to a loss, which minimizes attrition and maximizes profits. 
+This allows teammates to act and save the client relationship prior to a loss, which minimizes attrition and maximizes profits. /n
 
 The dataset was obtained from Kaggle which captures attrition behavior per bank client up to a certain point in time. 
 There are thirteen features and ten-thousand rows available for analysis. 
