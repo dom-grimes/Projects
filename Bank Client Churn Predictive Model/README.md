@@ -30,4 +30,5 @@ The presentation includes:
 - Potential Enhancements and Recommendations
 - Ethical Considerations
 
+Within this repository folder you will find a Presentation, Whitepaper, Jupyter Notebook, and raw data file.
 
